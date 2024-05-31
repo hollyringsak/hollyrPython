@@ -38,5 +38,18 @@ habits?
 Age? Income? Certain types of goods? Family status?
  
  ○ What differences can you find in ordering habits of different customer
-profiles? Consider the price of orders, the frequency of orders, the products
-customers are ordering, and anything else you can think of.
+profiles? 
+
+## Data Source
+
+CareerFoundary Data Set:
+
+[Customers Data Set](https://s3.amazonaws.com/coach-courses-us/public/courses/data-immersion/A4/A4_Data_Assets/customers.zip)
+
+## Folders
+
+- 01 Project Management : This folder contains all the documentation related to the project; for instance, a project plan with timeline, a budget, any signed contracts, and, in general, any important paperwork related to the project’s organization.
+- 02 Data : This folder contains any data sets used in the project.
+- 03 Scripts : This folder contains all scripts and notebooks used in the project.
+- 04 Analysis : This folder contains the results of analysis such as, Test Files, Visualizations, and Reports.
+- 05 Sent to Client : This folder contains all the final deliverables to be sent to the client.
